@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate:1.1.0-alpha01@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-5.2.1/caches/transforms-2/files-2.1/3070997f1a88d544d2b8e062c06ff309/jetified-savedstate-1.1.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-5.2.1/caches/transforms-2/files-2.1/3070997f1a88d544d2b8e062c06ff309/jetified-savedstate-1.1.0-alpha01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/gradle/lib/gradle-5.2.1/caches/modules-2/files-2.1/androidx.savedstate/savedstate/1.1.0-alpha01/73464c2c55129727354a95ffa91dc9c2cf0c78b/savedstate-1.1.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
